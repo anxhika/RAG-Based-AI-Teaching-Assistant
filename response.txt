@@ -1,0 +1,5 @@
+I'd be happy to help you with your question.
+
+CSS is not explicitly covered in the first two videos of your Sigma web development course. However, some CSS concepts like classes are introduced in Video 9 (Id & Classes in HTML) at timestamp 555.52 seconds. 
+
+If you're interested in learning more about CSS and its application in web development, I would recommend going to Video 4. Unfortunately, the title of that video is not provided in the given text snippet but it's likely to be "CSS Basics".
